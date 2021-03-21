@@ -1,0 +1,12 @@
+version: "3.3"
+services:
+    back:
+        build: to-do-list-back
+        container_name: to-do-list-back
+        ports:
+          - 5001:5001
+    front:
+        build: to-do-list-front
+        container_name: to-do-list-front
+        ports:
+         - 8080:8080

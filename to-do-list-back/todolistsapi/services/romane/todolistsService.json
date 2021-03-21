@@ -1,0 +1,216 @@
+[
+    {
+        "name": "Reactive Programming Back",
+        "created_at": "2021-03-14T19:39:05.266Z",
+        "list": [
+            {
+                "name": "POST /account",
+                "created_at": "2021-03-14T19:39:41.636Z",
+                "do": true
+            },
+            {
+                "name": "POST /login",
+                "created_at": "2021-03-14T19:41:49.641Z",
+                "do": true
+            },
+            {
+                "name": "GET /lists/{id_list}",
+                "created_at": "2021-03-14T19:42:38.318Z",
+                "do": true
+            },
+            {
+                "name": "DELETE /lists/{id_list} ",
+                "created_at": "2021-03-14T19:43:04.729Z",
+                "do": true
+            },
+            {
+                "name": "PATCH /lists/{id_list} ",
+                "created_at": "2021-03-14T19:43:16.394Z",
+                "do": true
+            },
+            {
+                "name": "PUT /lists",
+                "created_at": "2021-03-14T19:43:32.560Z",
+                "do": true
+            },
+            {
+                "name": "GET /lists",
+                "created_at": "2021-03-14T19:43:45.873Z",
+                "do": true
+            },
+            {
+                "name": "GET /lists/todos/{id_list}/{id_todo} ",
+                "created_at": "2021-03-14T19:44:16.879Z",
+                "do": true
+            },
+            {
+                "name": "DELETE /lists/todos/{id_list}/{id_todo} ",
+                "created_at": "2021-03-14T19:44:30.702Z",
+                "do": true
+            },
+            {
+                "name": "PATCH /lists/todos/{id_list}/{id_todo} ",
+                "created_at": "2021-03-14T19:44:41.451Z",
+                "do": true
+            },
+            {
+                "name": "PUT /lists/todos/{id_list}",
+                "created_at": "2021-03-14T19:44:59.250Z",
+                "do": true
+            },
+            {
+                "name": "GET /lists/todos/{id_list}/",
+                "created_at": "2021-03-14T19:45:13.885Z",
+                "do": true
+            }
+        ]
+    },
+    {
+        "name": "Reactive Programming Front",
+        "created_at": "2021-03-14T19:40:24.315Z",
+        "list": [
+            {
+                "name": "/signup Route",
+                "created_at": "2021-03-14T21:15:16.001Z",
+                "do": true
+            },
+            {
+                "name": "/Login Route",
+                "created_at": "2021-03-14T21:15:27.960Z",
+                "do": true
+            },
+            {
+                "name": "/Home Route when auth",
+                "created_at": "2021-03-14T21:15:55.242Z",
+                "do": true
+            },
+            {
+                "name": "/Tasks/{list_id} when auth",
+                "created_at": "2021-03-14T21:16:18.559Z",
+                "do": true
+            },
+            {
+                "name": "password hash",
+                "created_at": "2021-03-14T21:16:32.311Z",
+                "do": true
+            }
+        ]
+    },
+    {
+        "name": "Clean Back",
+        "created_at": "2021-03-18T22:11:42.290Z",
+        "list": [
+            {
+                "name": "api.py",
+                "created_at": "2021-03-18T22:12:08.449Z",
+                "do": true
+            },
+            {
+                "name": "config.py",
+                "created_at": "2021-03-18T22:12:25.096Z",
+                "do": true
+            },
+            {
+                "name": "__init__.py",
+                "created_at": "2021-03-18T22:12:36.485Z",
+                "do": true
+            },
+            {
+                "name": "account.py",
+                "created_at": "2021-03-18T22:12:54.981Z",
+                "do": true
+            },
+            {
+                "name": "login.py",
+                "created_at": "2021-03-18T22:13:02.377Z",
+                "do": true
+            },
+            {
+                "name": "todolists.py",
+                "created_at": "2021-03-18T22:13:38.139Z",
+                "do": true
+            },
+            {
+                "name": "todolistId.py",
+                "created_at": "2021-03-18T22:13:59.864Z",
+                "do": true
+            },
+            {
+                "name": "todolistIdTodo.py",
+                "created_at": "2021-03-18T22:14:13.975Z",
+                "do": true
+            },
+            {
+                "name": "todolistIdTodoId",
+                "created_at": "2021-03-18T22:14:43.983Z",
+                "do": true
+            },
+            {
+                "name": "utils.py",
+                "created_at": "2021-03-18T22:14:59.274Z",
+                "do": true
+            }
+        ]
+    },
+    {
+        "name": "Clean Front",
+        "created_at": "2021-03-18T22:11:50.902Z",
+        "list": [
+            {
+                "name": "api/index.js",
+                "created_at": "2021-03-20T00:19:05.409Z",
+                "do": true
+            },
+            {
+                "name": "Home.vue",
+                "created_at": "2021-03-20T00:19:17.228Z",
+                "do": true
+            },
+            {
+                "name": "Login.vue",
+                "created_at": "2021-03-20T00:19:24.615Z",
+                "do": true
+            },
+            {
+                "name": "Signup.vue",
+                "created_at": "2021-03-20T00:19:34.743Z",
+                "do": true
+            },
+            {
+                "name": "Tasks.vue",
+                "created_at": "2021-03-20T00:19:41.687Z",
+                "do": true
+            },
+            {
+                "name": "router/index.js",
+                "created_at": "2021-03-20T00:19:59.489Z",
+                "do": true
+            },
+            {
+                "name": "store/index.js",
+                "created_at": "2021-03-20T00:20:12.331Z",
+                "do": true
+            },
+            {
+                "name": "utils/index.js",
+                "created_at": "2021-03-20T00:20:27.170Z",
+                "do": true
+            },
+            {
+                "name": "App.vue",
+                "created_at": "2021-03-20T00:20:38.561Z",
+                "do": true
+            },
+            {
+                "name": "main.js",
+                "created_at": "2021-03-20T00:20:44.823Z",
+                "do": true
+            }
+        ]
+    },
+    {
+        "name": "Docker",
+        "created_at": "2021-03-20T00:10:28.479Z",
+        "list": []
+    }
+]
